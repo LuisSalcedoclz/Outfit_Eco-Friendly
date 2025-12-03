@@ -1,0 +1,18 @@
+@font-face {
+    font-family:'Libertinus' ;
+    src: url('fonts/Libertinus/LibertinusSerifDisplay-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Rubik';
+    src: url('fonts/Rubik/Rubik-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Rowdies';
+    src: url('fonts/Rowdies/Rowdies-Regular.ttf') format('truetype');
+    font-family: 'Rowdies-Light';
+    src: url('fonts/Rowdies/Rowdies-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Onyx';
+    src: url('fonts/Onyx/Onyx-Regular.ttf') format('truetype');
+}
